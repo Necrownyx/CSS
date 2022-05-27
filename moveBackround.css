@@ -1,5 +1,4 @@
 body#a {
-    background-image: url('http://source.unsplash.com/2000x2000/?abstract,dark');
     animation: moveBackround 10s linear infinite;
 }
 
