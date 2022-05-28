@@ -4,7 +4,9 @@ html#a {
     padding-right: 10%;
 }
 body#a {
-    background-image: url('http://source.unsplash.com/2000x2000/?abstract,dark');
+    background-image: url("https://source.unsplash.com/2000x900/?abstract,dark");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 div#a {
     background-color: rgb(255, 255, 255);
