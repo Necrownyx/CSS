@@ -44,7 +44,7 @@ div#sticky {
     z-index: 1;
 }
 
-#right {
+figure#right {
     float: right;
     margin: 0 0 0 1em;
     width: fit-content;
